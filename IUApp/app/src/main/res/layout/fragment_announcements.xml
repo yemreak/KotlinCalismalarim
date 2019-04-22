@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <com.ramotion.foldingcell.FoldingCell
+        android:id="@+id/fc_announcements"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <FrameLayout
+            android:id="@+id/cell_content_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/holo_green_dark"
+            android:visibility="gone">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:text="dsfdsfdsfdsfdsfdsfsdfds" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/cell_title_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_blue_dark"
+                android:text="sadasdsadasds" />
+        </FrameLayout>
+    </com.ramotion.foldingcell.FoldingCell>
+
+    <com.ramotion.foldingcell.FoldingCell
+        android:id="@+id/fc_announcements2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp">
+
+        <FrameLayout
+            android:id="@+id/cell_content_view2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/background_light"
+            android:visibility="gone">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:text="dsfdsfdsfdsfdsfdsfsdfds" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/cell_title_view2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@android:color/holo_orange_dark"
+                android:text="sadasdsadasds" />
+        </FrameLayout>
+    </com.ramotion.foldingcell.FoldingCell>
+
+</LinearLayout>

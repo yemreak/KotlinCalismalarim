@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true"
+    android:background="@mipmap/bg_blue"
+    android:gravity="center_horizontal"
+    tools:context=".DepartmentAct">
+
+    <ImageView
+        android:id="@+id/img_iu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="25dp"
+        app:srcCompat="@mipmap/img_iu"
+        tools:layout_editor_absoluteY="25dp" />
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="356dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="244dp"
+        android:fontFamily="@font/nunito_semibold"
+        android:text="@string/text_department_start"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+
+    <com.ramotion.circlemenu.CircleMenuView
+        android:id="@+id/cm_department"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="142dp"
+        android:padding="20dp"
+        app:button_colors="@array/cm_color_department"
+        app:button_icons="@array/cm_ic_department">
+
+    </com.ramotion.circlemenu.CircleMenuView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="26dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/ib_pre"
+            android:layout_width="76dp"
+            android:layout_height="76dp"
+            android:background="@android:color/transparent"
+            android:paddingLeft="7dp"
+            android:paddingTop="7dp"
+            app:srcCompat="@mipmap/ic_pre_1" />
+
+        <ImageButton
+            android:id="@+id/ib_one"
+            android:layout_width="76dp"
+            android:layout_height="76dp"
+            android:background="@android:color/transparent"
+            android:paddingLeft="7dp"
+            android:paddingTop="7dp"
+            app:srcCompat="@mipmap/ic_one_1" />
+
+        <ImageButton
+            android:id="@+id/ib_two"
+            android:layout_width="76dp"
+            android:layout_height="76dp"
+            android:background="@android:color/transparent"
+            android:paddingLeft="7dp"
+            android:paddingTop="7dp"
+            app:srcCompat="@mipmap/ic_two_1" />
+
+        <ImageButton
+            android:id="@+id/ib_three"
+            android:layout_width="76dp"
+            android:layout_height="76dp"
+            android:background="@android:color/transparent"
+            android:paddingLeft="7dp"
+            android:paddingTop="7dp"
+            app:srcCompat="@mipmap/ic_three_1" />
+
+        <ImageButton
+            android:id="@+id/ib_four"
+            android:layout_width="76dp"
+            android:layout_height="76dp"
+            android:background="@android:color/transparent"
+            android:paddingLeft="7dp"
+            android:paddingTop="7dp"
+            app:srcCompat="@mipmap/ic_four_1" />
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ParseCalismasi</string>
+
+    <!-- Parse Info's -->
+    <string name="parse_app_id">a4f6297576a8f17b0faa3d3dd0709cb101a4302a</string>
+    <string name="parse_server">http://54.93.174.69:80/parse</string>
+    <string name="parse_master_key">b0655084affaa5210e7c6ef6fb3e46d531fb7158</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

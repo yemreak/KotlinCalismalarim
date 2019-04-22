@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">IUApp</string>
+
+    <!-- Ana metinler -->
+    <string name="text_next">İlerle</string>
+    <string name="text_back">Geri</string>
+    <string name="text_start">Başlat</string>
+    <string name="text_click_here">Buraya tıklayabilirsin</string>
+    <string name="text_settings">Ayarlar</string>
+
+    <!-- Başlıklarlar -->
+    <string name="title_main2_activity">İstanbul Üniversitesi</string>
+
+    <!-- İpuçları / Hint -->
+    <string name="hint_user_no">Öğrenci no</string>
+    <string name="hint_password">Şifre</string>
+
+    <!-- Girişteki tanıtım metinleri -->
+    <string name="text_main_slide1_rectangle">Merhaba, bu uygulama ile üniversiteni daha rahat takip edebilir ve üniversiten hakkında yardım alabilirsin :)</string>
+    <string name="text_main_slide2_rectangle">Olası bir sorunda geliştiriciye ulaşabilirsin, hazır isen giriş için bir kaç işlemi aradan çıkaralım</string>
+    <string name="text_department_start">Başlamadan önce bir bölüm ve sınıf(lar) seçmelisin :)</string>
+
+    <!-- Parse Bilgileri -->
+    <string name="parse_app_id">a4f6297576a8f17b0faa3d3dd0709cb101a4302a</string>
+    <string name="parse_server">http://54.93.174.69:80/parse</string>
+    <string name="parse_master_key">b0655084affaa5210e7c6ef6fb3e46d531fb7158</string>
+
+    <!-- Kayıt Ol metinleri -->
+    <string name="title_alert_sign_up">Kayıt olmak ister misin?</string>
+    <string name="msg_alert_sign_up">Girmiş olduğun bilgiler sistemde mevcut değil. Girmiş olduğun bilgiler ile kayıt olmak ister misin? Farklı bilgilerle kaydolmak için; </string>
+    <string name="text_button_yes_alert_sign_up">Evet, mümkünse :)</string>
+    <string name="text_button_no_alert_sign_up">Lütfen tekrar kontrol etmeme izin ver</string>
+    <string name="title_alert_sign_up2">Kayıt olmak ister misin?</string>
+    <string name="msg_alert_sign_up2"> Öğrenci no ve şifreni alttaki kısımlara yazarak kaydolabilirsin.</string>
+    <string name="text_button_yes_alert_sign_up2">Kayıt ol</string>
+    <string name="text_button_no_alert_sign_up2">Vazgeçtim</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Nav Header Metinleri -->
+    <string name="nav_header_main_text">Misafir</string>
+    <string name="nav_header_text_button">Giriş yap</string>
+
+    <!-- Nav Drawer Metinleri -->
+    <string name="text_nav_drawer_open">Navigasyon Çizici Açıldı</string>
+    <string name="text_nav_drawer_close">Navigasyon Çizici Kapandı</string>
+
+    <!-- Main2 Drawer Metinleri -->
+    <string name="title_home_main2_drawer">Ana Sayfam</string>
+    <string name="title_announcements_main2_drawer">Duyurular</string>
+    <string name="title_organizations_main2_drawer">Etkinlikler</string>
+    <string name="title_lessons_main2_drawer">Dersler</string>
+    <string name="title_groups_main2_drawer">Klüpler</string>
+    <string name="title_other_main2_drawer">Diğerleri</string>
+    <string name="title_follow_lesson_drawer">Ders Takibi</string>
+
+    <!-- Klüpler metinleri -->
+    <string name="title_groups_iubk"> İstanbul Universitesi Bilgisayar Kulübü</string>
+
+</resources>
