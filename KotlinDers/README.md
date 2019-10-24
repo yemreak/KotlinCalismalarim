@@ -10,7 +10,7 @@ Kotlin dili üzerine ders çalışma notlarım
 
 ## 📸 Uygulamadan Görüntüler
 
-![collage](..res/collage.jpg)
+![collage](../res/collage.jpg)
 
 ## 💖 Destek ve İletişim
 
