@@ -9,9 +9,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa39be17-b414-43ea-ad86-593fbfe521d1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-    </list>
+    <list default="true" id="fa39be17-b414-43ea-ad86-593fbfe521d1" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yemreak/kotlinders/NavigationDrawerActivity.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="19" column="57" lean-forward="true" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+            <state relative-caret-position="176">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="e#32#349#0" expanded="true" />
               </folding>
@@ -132,7 +130,7 @@
       <abbreviatePackageNames AndroidView="false" PackagesPane="true" ProjectPane="true" />
       <autoscrollToSource AndroidView="true" PackagesPane="false" ProjectPane="true" />
       <autoscrollFromSource AndroidView="true" PackagesPane="false" ProjectPane="true" />
-      <sortByType Scratches="true" AndroidView="false" PackagesPane="false" ProjectPane="true" />
+      <sortByType ProjectPane="true" AndroidView="false" PackagesPane="false" Scratches="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes />
@@ -301,7 +299,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Logcat" order="8" weight="0.2024922" />
-      <window_info anchor="bottom" id="Build" order="9" visible="true" weight="0.38043478" />
+      <window_info anchor="bottom" id="Build" order="9" weight="0.38043478" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32488114" />
       <window_info anchor="bottom" id="Terminal" order="12" />
@@ -630,8 +628,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yemreak/kotlinders/NavigationDrawerActivity.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="57" lean-forward="true" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+        <state relative-caret-position="176">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#32#349#0" expanded="true" />
           </folding>
